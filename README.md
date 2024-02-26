@@ -1,2 +1,2 @@
 # CRUD
-CRUD en Java con Spring Boot
+CRUD en Java con Spring Boot y MySQL.
